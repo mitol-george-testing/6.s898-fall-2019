@@ -1,0 +1,36 @@
+{
+  "level": "Graduate",
+  "topics": [
+    [
+      "Engineering",
+      "Systems Engineering",
+      "Computational Modeling and Simulation"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Climate Studies"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "5e06cfd6-5776-eea9-e657-0c4df7732089",
+      "a6e526cd-bd4e-23c3-79c4-08e53fa35c4a",
+      "4bd885ba-75e1-10e9-f75f-124e2da66800",
+      "734cbd71-7a77-6aa2-1623-754918b41ded"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Climate Change Seminar",
+  "course_description": "This course provides a broad overview of issues related to climate change, with an emphasis on those aspects most relevant to computer scientists. Topics include climate science, climate models and simulations, decision-making under uncertainty, economics, mitigation strategies, adaptation strategies, geoengineering, policy-making, messaging, and politics.The course will culminate in a presentation of a research project which might include a paper, a blog, software etc.\n",
+  "department_numbers": [
+    "6",
+    "12"
+  ],
+  "extra_course_numbers": "12.S992",
+  "primary_course_number": "6.S898",
+  "learning_resource_types": [
+    "Projects with Examples"
+  ],
+  "title": "Course Metadata"
+}
